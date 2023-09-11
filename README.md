@@ -16,7 +16,7 @@
 
 <div>
 <a href="https://github.com/BrunoFBarbosa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBarbosa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFBarbosa&layout=compact&langs_count=7&theme=dracula&card_width=395"/>
 </div>
 
 ## Get In Touch With Me
