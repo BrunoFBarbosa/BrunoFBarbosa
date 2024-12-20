@@ -9,8 +9,9 @@
 
 I started my QA career in around 2017, in my internship, and since then I have worked on multiple projects, here are the companies I have worked for:
 
-- [Digital Product Engineering & Software Engineering Services | Encora](https://www.encora.com/) (Former Daitan Group)
+- [Encora](https://www.encora.com/) (Former Daitan Group)
 - [e-Core](https://www.e-core.com/)
+- [Seedz](https://seedz.ag/)
 
 And the clients I have worked with:
 - [Symphony Communications - Secure, Compliant Collaboration & Analytics](https://symphony.com/)
@@ -20,7 +21,7 @@ And the clients I have worked with:
 - [Unifertil - O Fertilizante da Nossa Terra](http://unifertil.com.br/)
 
 
-## Tools/Technologies I Have Worked With
+## Some Tools/Technologies I Have Worked With
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="40" height="40"/>
 
