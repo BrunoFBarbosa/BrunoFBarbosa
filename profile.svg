@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="800px" height="400px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.title {fill: #57ff79ff;}
+.info {fill: #ffffffde;}
+.dot {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="800px" height="400px" fill="#161b22" rx="15"/>
+<text x="5" y="30" fill="#f5f6f6ff">
+<tspan x="5" y="30"> -—- BrunoFBarbosa</tspan> -—-—————————————————————————————————————————————————————————-—-
+<tspan x="5" y="50" class="dot">. </tspan><tspan class="title">Location</tspan>:<tspan class="dot"> .................. </tspan><tspan class="info">Brazil</tspan>
+<tspan x="5" y="70" class="dot">. </tspan><tspan class="title">Created At</tspan>:<tspan class="dot"> ................ </tspan><tspan class="info">1993-08-24</tspan>
+<tspan x="5" y="90" class="dot">. </tspan><tspan class="title">Occupation</tspan>:<tspan class="dot"> ................ </tspan><tspan class="info">Software QA Analyst</tspan>
+<tspan x="5" y="110" class="dot">. </tspan>
+<tspan x="5" y="130" class="dot">. </tspan><tspan class="title">Languages</tspan>.<tspan class="title">Programming</tspan>:<tspan class="dot"> ..... </tspan><tspan class="info">Python, Java, JavaScript</tspan>
+<tspan x="5" y="150" class="dot">. </tspan><tspan class="title">Languages</tspan>.<tspan class="title">Human</tspan>:<tspan class="dot"> ........... </tspan><tspan class="info">Portuguese, English</tspan>
+<tspan x="5" y="170" class="dot">. </tspan>
+<tspan x="5" y="190" class="dot">. </tspan><tspan class="title">Software</tspan>.<tspan class="title">Test</tspan>:<tspan class="dot"> ............. </tspan><tspan class="info">Robot Framework, Rest Assured, Cypress, Selenium</tspan>
+<tspan x="5" y="210" class="dot">. </tspan><tspan class="title">Software</tspan>.<tspan class="title">Infrastructure</tspan>:<tspan class="dot"> ... </tspan><tspan class="info">Jenkins, Docker</tspan>
+<tspan x="5" y="230" class="dot">. </tspan><tspan class="title">Software</tspan>.<tspan class="title">Methodology</tspan>:<tspan class="dot"> ...... </tspan><tspan class="info">BDD, ATDD, SDD</tspan>
+<tspan x="5" y="250" class="dot">. </tspan><tspan class="title">Software</tspan>.<tspan class="title">AI</tspan>:<tspan class="dot"> ............... </tspan><tspan class="info">Claude Code, Gemini, Copilot</tspan>
+<tspan x="5" y="270" class="dot">. </tspan>
+<tspan x="5" y="290" class="dot">. </tspan><tspan class="title">Hobbies</tspan>.<tspan class="title">Software</tspan>:<tspan class="dot"> .......... </tspan><tspan class="info">Gaming, Youtube</tspan>
+<tspan x="5" y="310" class="dot">. </tspan><tspan class="title">Hobbies</tspan>.<tspan class="title">Human</tspan>:<tspan class="dot"> ............. </tspan><tspan class="info">Jogging, Music, Meditation, Learning</tspan>
+<tspan x="5" y="350">-—- Contact</tspan> -—-————————————————————————————————————————————————————————————————-—-
+<tspan x="5" y="370" class="dot">. </tspan><tspan class="title">Email</tspan>:<tspan class="dot"> ..................... </tspan><tspan class="info">brunofbarbosa@outlook.com</tspan>
+<tspan x="5" y="390" class="dot">. </tspan><tspan class="title">LinkedIn</tspan>:<tspan class="dot"> .................. </tspan><tspan class="info">in/bruno-barbosa-0046aab1</tspan>
+</text>
+</svg>
